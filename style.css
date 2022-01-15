@@ -1,5 +1,9 @@
 
 /* Font */
+.heading{
+    margin-left: 60px;
+    padding-top: 60px;
+}
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -83,6 +87,10 @@ p{
     gap: 10px;
     margin:auto;
     width: 70%;
+  }
+  h4{
+      margin-top: 10px;
+      margin-bottom: 10px;
   }
 
   /*.................. 
